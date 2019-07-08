@@ -13,6 +13,12 @@ namespace AspNetCoreTodo.Controllers
         public IActionResul Index(){
 
         }
+         public IActionResul Aboutx(){
+
+        }
+         public IActionResul Contat(){
+
+        }
         
     }
 }
