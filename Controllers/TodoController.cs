@@ -7,8 +7,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AspNetCoreTodo.Controllers
 {
-    public class TodoController
+    // aqui controllaremos las acciones
+    public class TodoController:Controllers
     {
-        // aqui controllaremos las acciones
+        public IActionResul Index(){
+
+        }
+        
     }
 }
